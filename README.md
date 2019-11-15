@@ -66,3 +66,10 @@ thickness you want to keep on the inside.
 together the two pieces.
 
 ### Lessons Learned
+
+  The main thing I learned that was very helpful in assembling the pieces was
+how when you are inserting a new part into the assembly, you can change its
+orientation. When inserting a part into the assembly, there will be Y, X, and Z
+buttons at the bottom left corner of the screen. Changing the orientation of 
+the part when inserting it will save you a lot of extra work when putting the
+part into place.
