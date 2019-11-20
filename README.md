@@ -40,9 +40,13 @@ find one. A little tip is go to the very top of the screen to "view"
 then under "hide/show" and show "temporary axis". This will most likely
 provide you an axis of symmetry.
 
-### Lesson 1 and Lesson 2
+### Lesson 1 Screenshot
 
-****Put screenshot of lesson 1 and lesson 2 individually
+<img src="Media/Lesson1Screenshot.PNG" width="500px" />
+
+### Lesson 2 Screenshot
+
+
 
 ### Description
 
