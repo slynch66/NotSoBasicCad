@@ -23,7 +23,7 @@ on the toolbar.
 
 ### Pressure Plate
 
-****Put screenshot of pressure plate here**
+<img src="Media/PressurePlateScreenshot.PNG" width="500px"/>
 
 ### Description
 
