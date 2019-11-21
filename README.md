@@ -46,7 +46,7 @@ provide you an axis of symmetry.
 
 ### Lesson 2 Screenshot
 
-
+<img src="Media/Lesson2Screenshot.PNG" width="500px" />
 
 ### Description
 
