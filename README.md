@@ -62,7 +62,7 @@ thickness you want to keep on the inside.
 
 ### Lesson 1 and 2 Assembly
 
-****Put screenshot of the finished assembly here
+<img src="Media/Lesson2AssemblyScreenshot.PNG" width="500px" />
 
 ### Description
 
